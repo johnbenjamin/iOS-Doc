@@ -1,6 +1,6 @@
 # 我是目录
 
-## [论Apple Store审核](/经验教训/AppleStore审核相关)
+## [AppleStore审核相关]( [AppleStore审核相关.md](经验教训/AppleStore审核相关.md) )
 
 
 
