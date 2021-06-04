@@ -1,4 +1,4 @@
-# cocoapods
+# cocoapods小经验
 
 ### 众所周知，翻墙翻墙翻墙
 
@@ -16,11 +16,11 @@
 
 ### 终端翻墙：
 
-1. ```
+1. ```visual basic
    vim ~/.bash_profile
    ```
 
-2. ```
+2. ```visual basic
    function proxy_on(){
        export http_proxy=http://127.0.0.1:1087
        export https_proxy=http://127.0.0.1:1087
@@ -33,11 +33,11 @@
    }
    ```
 
-3. ```
+3. ```visual basic
    source ~/.bash_profile
    ```
 
-4. ```
+4. ```visual basic
    proxy_on
    ```
 
